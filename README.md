@@ -11,7 +11,6 @@ This repository complements our Substack publication by providing:
 - 🧪 **Hands-on EKS Labs** – Guided exercises to build, deploy, and scale workloads on AWS EKS.
 - 📜 **Kubernetes & EKS Manifests** – Reusable YAML files for clusters, workloads, networking, observability, security, and more.
 - 🧠 **Architecture Notes & Patterns** – Real-world examples and best practices to run EKS in production.
-- 🎙 **Interviews with Experts** – Insights from cloud engineers, architects, and DevOps leaders who live and breathe Kubernetes and AWS.
 
 ---
 
@@ -45,7 +44,7 @@ We welcome feedback, PRs, and collaboration from fellow EKS enthusiasts. Open an
 
 - **Substack**: [eks.substack.com](https://eks.substack.com)
 - **GitHub Discussions** (coming soon!)
-- **Email**: Coming soon via Substack newsletter
+- **Email**: Via Substack newsletter
 
 ---
 
