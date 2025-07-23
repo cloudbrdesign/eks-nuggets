@@ -1,6 +1,6 @@
 # 🎯 EKS Labs & Manifests
 
-Welcome to the official GitHub repository for our [EKS Substack publication](https://eks.substack.com) — a **practical and opinionated guide to AWS Elastic Kubernetes Service (EKS)**. Whether you're **deploying your first cluster** or **managing production-grade workloads**, this repository serves as your companion for real-world EKS excellence.
+Welcome to the official GitHub repository for our [EKS Substack publication](https://eksnuggets.substack.com) — a **practical and opinionated guide to AWS Elastic Kubernetes Service (EKS)**. Whether you're **deploying your first cluster** or **managing production-grade workloads**, this repository serves as your companion for real-world EKS excellence.
 
 ---
 
@@ -27,7 +27,7 @@ We’re building the **go-to resource for EKS practitioners** who want to go bey
 
 ## 🚀 Get Started
 
-1. 👉 Head over to [eks.substack.com](https://eks.substack.com) and subscribe.
+1. 👉 Head over to [eks.substack.com](https://eksnuggets.substack.com) and subscribe.
 2. ⬇️ Clone this repo and explore the `/labs` and `/manifests` directories.
 3. 🧵 Follow the instructions in each lab to practice and master EKS concepts.
 4. ⭐️ Star this repository to stay updated as we publish new content.
@@ -42,7 +42,7 @@ We welcome feedback, PRs, and collaboration from fellow EKS enthusiasts. Open an
 
 ## 📬 Stay Connected
 
-- **Substack**: [eks.substack.com](https://eks.substack.com)
+- **Substack**: [eks.substack.com](https://eksnuggets.substack.com)
 - **GitHub Discussions** (coming soon!)
 - **Email**: Via Substack newsletter
 
