@@ -1,7 +1,7 @@
 Create the Deployment
 ---------------------
 
-The following [Deployment](https://eksnuggests.substack.com/p/whats-a-deployment-in-kubernetes) manifest will be used to deploy two Pods running version 1.34.1 of BusyBox. We also include a simple command to `execute sleep 3600`, which keeps the container alive for 3,600 seconds:
+The following [Deployment](https://eksnuggets.substack.com/p/whats-a-deployment-in-kubernetes) manifest will be used to deploy two Pods running version 1.34.1 of BusyBox. We also include a simple command to `execute sleep 3600`, which keeps the container alive for 3,600 seconds:
 
 ```
 apiVersion: apps/v1
@@ -308,7 +308,7 @@ Or using your browser:
 
 ### Using an Ingress
 
-[An Ingress builds](https://eksnuggests.substack.com/p/ingress-ingress-controllers-and-services) on top of Services by providing a mechanism to expose HTTP/HTTPS routes, such as `/login`, or `/order`; outside a cluster.
+[An Ingress builds](https://eksnuggets.substack.com/p/ingress-ingress-controllers-and-services) on top of Services by providing a mechanism to expose HTTP/HTTPS routes, such as `/login`, or `/order`; outside a cluster.
 
 An Ingress is independent of the underlying Services, so a typical use case is to use a single Ingress to provide a central entry point for multiple (micro) services.
 
@@ -368,9 +368,9 @@ curl -H 'Host: myweb.cloudbrewery.com' http://54.247.224.126:31865/login
 
 We have two options to integrate AWS Load Balancers with Ingress controllers:
 
--   [NodePort + manual Load Balancer](https://eksnuggests.substack.com/i/168946807/option-nodeport-manual-load-balancer), or
+-   [NodePort + manual Load Balancer](https://eksnuggets.substack.com/i/168946807/option-nodeport-manual-load-balancer), or
 
--   [Integrated AWS-aware Load Balancer](https://eksnuggests.substack.com/i/168946807/option-integrated-aws-aware-load-balancer)
+-   [Integrated AWS-aware Load Balancer](https://eksnuggets.substack.com/i/168946807/option-integrated-aws-aware-load-balancer)
 
 For production-grade setups in EKS where dynamic scaling and resilience are critical, the second option is best practice.
 
