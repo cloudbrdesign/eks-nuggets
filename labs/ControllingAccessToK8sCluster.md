@@ -160,8 +160,8 @@ While the access control flow is similar in EKS, there are key differences in **
 
 * * * * *
 
-**🔄 Mapping IAM to Kubernetes Identity**
------------------------------------------
+**Mapping IAM to Kubernetes Identity**
+--------------------------------------
 
 ### **Option 1: **
 
