@@ -163,11 +163,7 @@ While the access control flow is similar in EKS, there are key differences in **
 **Mapping IAM to Kubernetes Identity**
 --------------------------------------
 
-### **Option 1: **
-
-### **aws-auth**
-
-### ** ConfigMap**
+**Option 1:** `aws-auth` **ConfigMap**
 
 This ConfigMap maps IAM users/roles to Kubernetes usernames and groups.
 
