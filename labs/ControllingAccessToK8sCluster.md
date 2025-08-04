@@ -171,25 +171,21 @@ While the access control flow is similar in EKS, there are key differences in **
 
 This ConfigMap maps IAM users/roles to Kubernetes usernames and groups.
 
+<pre lang="markdown">
+```yaml
 mapUsers: |
-
-  - userarn: arn:aws:iam::123456789012:user/Alice
-
-    username: alice
-
-    groups:
-
-      - developers
+  - userarn: arn:aws:iam::123456789012:user/Alice
+    username: alice
+    groups:
+      - developers
 
 mapRoles: |
-
-  - rolearn: arn:aws:iam::123456789012:role/AdminRole
-
-    username: eks-admin
-
-    groups:
-
-      - system:masters
+  - rolearn: arn:aws:iam::123456789012:role/AdminRole
+    username: eks-admin
+    groups:
+      - system:masters
+```
+</pre>
 
 ### **Option 2: EKS Access Entries (Recommended)**
 
