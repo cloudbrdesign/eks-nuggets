@@ -1,3 +1,3 @@
-![Alt text](labs/images/Controlling access to the kubernetes cluster.png)
+![Alt text](labs/images/Controlling%20access%20to%20the%20kubernetes%20cluster.png)
 
 Imagine
