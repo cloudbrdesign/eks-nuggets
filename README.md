@@ -1,12 +1,15 @@
 # 🎯 EKS Labs & Manifests
 
-Welcome to the official GitHub repository for our [EKS Substack publication](https://eksnuggets.substack.com) — a **practical and opinionated guide to AWS Elastic Kubernetes Service (EKS)**. Whether you're **deploying your first cluster** or **managing production-grade workloads**, this repository serves as your companion for real-world EKS excellence.
+> **Archived.** This repository is no longer maintained and is kept read-only for reference. The EKS publication it
+> accompanied has closed. New Kubernetes labs from Cloud Brewery Academy will be published in a new repository.
+
+This repository accompanied our EKS publication — a **practical and opinionated guide to AWS Elastic Kubernetes Service (EKS)**. Whether you're **deploying your first cluster** or **managing production-grade workloads**, this repository serves as your companion for real-world EKS excellence.
 
 ---
 
 ## 📚 What You'll Find Here
 
-This repository complements our Substack publication by providing:
+This repository provides:
 
 - 🧪 **Hands-on EKS Labs** – Guided exercises to build, deploy, and scale workloads on AWS EKS.
 - 📜 **Kubernetes & EKS Manifests** – Reusable YAML files for clusters, workloads, networking, observability, security, and more.
@@ -27,24 +30,20 @@ We’re building the **go-to resource for EKS practitioners** who want to go bey
 
 ## 🚀 Get Started
 
-1. 👉 Head over to [eks.substack.com](https://eksnuggets.substack.com) and subscribe.
-2. ⬇️ Clone this repo and explore the `/labs` and `/manifests` directories.
-3. 🧵 Follow the instructions in each lab to practice and master EKS concepts.
-4. ⭐️ Star this repository to stay updated as we publish new content.
+1. ⬇️ Clone this repo and explore the `/labs` and `/manifests` directories.
+2. 🧵 Follow the instructions in each lab to practice and master EKS concepts.
 
 ---
 
 ## 🤝 Contribute
 
-We welcome feedback, PRs, and collaboration from fellow EKS enthusiasts. Open an issue or submit a pull request with improvements, bug fixes, or new ideas.
+This repository is archived, so it no longer accepts issues or pull requests.
 
 ---
 
 ## 📬 Stay Connected
 
-- **Substack**: [eks.substack.com](https://eksnuggets.substack.com)
-- **GitHub Discussions** (coming soon!)
-- **Email**: Via Substack newsletter
+- **LinkedIn newsletter**: [Kubernetes Labs and Concepts](https://www.linkedin.com/newsletters/kubernetes-labs-and-concepts-6945358071384653824/)
 
 ---
 
